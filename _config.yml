@@ -21,11 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ruihua.png"
   name             : "Ruihua Mao"
   bio              : "Phd student in Psycholinguistics and Experimental Syntax"
-  location         : "Earth"
-  employer         : "Red Brick University"
   uri              : # URL
   email            : "ruihua.mao@etu.u-paris.fr
                       ruihuamauri@gmail.com" 
